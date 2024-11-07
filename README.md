@@ -33,6 +33,6 @@ I'm a passionate Web Developer and Cybersecurity enthusiast, always excited to w
 
 Thanks for visiting! Let’s build something amazing! 🚀 
 
-![Alaadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaa625&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaa625&theme=radical)](https://git.io/streak-stats)
+![Alaadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaadinak&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaadinak&theme=radical)](https://git.io/streak-stats)
 ![Visitors](https://img.shields.io/badge/Visitors-0-brightgreen)
